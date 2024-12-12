@@ -118,7 +118,6 @@ server.key
 
  
 
-if you want the exact docker-compose I use, I can type it up here too. Let me know
 
  
 
