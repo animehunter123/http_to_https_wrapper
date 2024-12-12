@@ -3,6 +3,11 @@ Notes on how to wrap a existing old HTTP ONLY website, with a HTTPS Docker Serve
 
 Follow the steps below as needed!
 
+# Todo Future
+* Write a Backend from scratch in nodejs for this, instead - to support wrapping x64 RHEL<=7
+
+# Installation of the HTTP to HTTPS WRAPPER
+
 ## Generating SSL Certificates
 
 First, generate the necessary SSL certificates using OpenSSL. Run these commands in your terminal:
