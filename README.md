@@ -1,5 +1,5 @@
 # http_to_https_wrapper
-Notes on how to wrap a existing old HTTP ONLY website, with a HTTPS Docker Server
+Notes on how to wrap a existing old HTTP ONLY website, with a HTTPS Docker Server. Basically, as new browsers force to HTTPS only, you may need to open it up in a new browser, so you can wrap the website through a SSL PROXY using the below steps!
 
 Follow the steps below as needed!
 
